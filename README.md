@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OumGhaith
-- 👀 I’m interested in Deep Learning
+- 👀 I’m interested in Deep Learning, Image classification and segmentation, CNN, GNN, industrial defect identification and detection, Medical image processing...
 - 🌱 I’m currently learning Coding with Python
 - 💞️ I’m looking to collaborate on Deep Learning tasks and Image Classification and Segmentation
 - 📫 How to reach me: kaggle account: https://www.kaggle.com/yousrakateb linkedin: https://www.linkedin.com/in/yousra-kateb-71051a235/
